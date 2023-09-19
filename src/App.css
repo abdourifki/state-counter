@@ -1,0 +1,21 @@
+.App{
+    text-align: center;
+}
+.d1{
+    border: solid black 1px;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-top: 50px;
+    border-radius: 20px;
+    background-color: coral;
+}
+
+
+.image{
+    width: 200px;
+    
+    
+}
+.container{
+    text-align: center;
+}
